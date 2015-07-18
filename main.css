@@ -1,0 +1,25 @@
+body
+{
+	width: 1280px;
+	height: 720px;
+}
+
+.myDiv
+{
+	position: relative;
+	float: left;
+}
+
+
+#mainContainer
+{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+#gameDiv
+{
+	background-color: red;
+	border: 2px solid white;
+}
